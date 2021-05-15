@@ -1,0 +1,5 @@
+*.py linguist-detectable=false
+*.cpp linguist-detectable=false
+*.java linguist-detectable=true
+*.spring linguist-detectable=true
+
